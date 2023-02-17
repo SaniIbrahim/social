@@ -1,0 +1,16 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v171)
+"   /data/data/com.termux/files/home/python/my_project/social/images
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+migrations/
+__init__.py
+admin.py
+apps.py
+models.py
+tests.py
+views.py
